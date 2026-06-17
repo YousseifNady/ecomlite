@@ -23,22 +23,22 @@
 
 ## Introduction
 
-This project is a simplified RESTful API built with Laravel for managing products and orders
-in a small e-commerce system. It provides the core functionality required for managing an online store,
-including product listings, order placement, and basic search functionality. The API is designed
-with clean code principles and optimized for performance using features such as caching, pagination,
-and event handling.
+EcomLite is a lightweight e-commerce RESTful API built with Laravel. It demonstrates the implementation of core e-commerce functionalities, including product management, order processing, authentication, and search capabilities. The project follows clean code principles and leverages Laravel features such as caching, pagination, validation, and event-driven architecture to deliver a scalable and maintainable backend application.
 
+This project was built to showcase practical backend engineering skills and modern Laravel development practices while providing a solid foundation that can be extended with additional features and integrations.
 
 ## Features
 
-- **Product Management:** Create, update, delete, and search products with support for filtering by price and category.
-Order Placement: Users can place orders for products, with automatic stock validation and updates.
-- **API Authentication:** Secured endpoints using Laravel Sanctum to ensure only authenticated users can access sensitive actions.
-- **Caching:** Optimized product retrieval using caching for better performance.
-- **Event Handling:** Events trigger actions like sending notifications when an order is placed.
-- **Validation:** Robust validation of user input to ensure data integrity, including product availability checks.
-RESTful Endpoints: Adheres to RESTful principles with proper HTTP status codes and structured JSON responses.
+* Product management (Create, Read, Update, Delete)
+* Product search and filtering by category and price
+* Order placement with automatic stock validation and inventory updates
+* API authentication using Laravel Sanctum
+* Product caching for improved performance
+* Event-driven notifications for order-related actions
+* Robust request validation and product availability checks
+* RESTful API design with proper HTTP status codes and structured JSON responses
+* Scalable and maintainable architecture following Laravel best practices
+
 
 
 
