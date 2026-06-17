@@ -169,4 +169,4 @@ If you'd like to contribute :
 
 ### Contact
 
-Developed by <a href="https://www.linkedin.com/in/yousseif" target="_blank">Yousseif Nady</a>. Reach out at [yousseif@example.com]() for any questions or inquiries.
+Developed by <a href="https://www.linkedin.com/in/yousseif-nady" target="_blank">Yousseif Nady</a>. Reach out at [yousseifnady59@gmail.com]() for any questions or inquiries.
